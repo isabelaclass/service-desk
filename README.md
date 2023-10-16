@@ -1,4 +1,17 @@
-# Service Desk
-Projeto de WEB API desenvolvido em C# e SQLite para a matéria de Desenvolvimento de Software Visual.
-Curso: Engenharia de Software 
-Período: 3º 
+# Service Desk system
+Repository created to save the project develped to visual software development to Software Engineering degree.
+
+## Author
+
+- [@isabelaclass](https://github.com/isabelaclass)
+
+
+## Learnings
+
+- WEB API
+- Mvc
+- SQLite
+  
+## Tech
+
+**Back-end:** C#, SQLite
